@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "Rowdy_MD",
   "version": "2.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By King-Rowdy",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Rowdy_Md",
+    "stop": "pm2 stop Rowdy_Md",
+    "restart": "pm2 restart Rowdy_Md"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
