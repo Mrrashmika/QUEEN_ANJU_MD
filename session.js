@@ -1,4 +1,3 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                   𝗤𝗨𝗘𝗘𝗡-𝗔𝗡𝗝𝗨 𝗠𝗗  𝐁𝐎𝐓                                               //
 //                                                                                                      //
@@ -52,5 +51,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "your session_id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-MD=mMkjxLRA#0Nm9GgYlSK05IVaYT9qPxsOODz0BjWSfql4mRWxUbq0",
 };
