@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "inbox",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "923362519749",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -20,10 +20,10 @@ module.exports = {
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
   "OWNER_NAME": "MR JANIYA",
-  "NEWS_JID": "1234567890@s.whatsapp.net",
-  "AUTO_TYPING": false,
+  "NEWS_JID": "923362519749@s.whatsapp.net",
+  "AUTO_TYPING": true,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": true,
-  "OWNER_REACT": false,
+  "OWNER_REACT": trie,
   "EMOJI": "🏷"
 };
