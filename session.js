@@ -38,7 +38,7 @@
 //*
 //base by Janith Rashmika
 //GitHub: @Mrrashmika
-//WhatsApp: +923362519749
+//WhatsApp: +9197923 57691
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@gamingrash2006
 //   * Created By Github: Mrrashmika.
 //   * Credit To Janith Rashmika
@@ -52,5 +52,5 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ANJU-MD=7E0EDT6Q#NbdXTL-mrwPb8dIfQflilaetbcSTrTcXLtpSRTVP9oo",
+SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=n2hFCSzZ#fVzzhQh2ah6RLml_2aJs-qVzW7eFNc3MG1nOHn-Vwgk",
 };
